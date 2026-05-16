@@ -129,7 +129,9 @@ Project completed successfully with core functionalities implemented and tested.
 ## Screenshots
 
 _Add project screenshots here._
+<img width="1898" height="868" alt="image" src="https://github.com/user-attachments/assets/d0f0cd58-451d-478e-9e18-e271ff53b6cc" />
 <img width="1897" height="871" alt="image" src="https://github.com/user-attachments/assets/9db9eb35-c620-4bbf-a92f-97b5465c0d1c" />
+
 
 
 
